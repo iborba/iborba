@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Israel Borba!
+<!-- Header Section -->
+<p align="center">
+<img src="israelborba_logo.svg" alt="israel borba"/>
+</p>
 
 Welcome to my GitHub profile! Here's a little about me:
 
