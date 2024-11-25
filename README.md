@@ -27,4 +27,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📫 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,cs,net,golang,aws,azure,postgres,docker,git,graphql,kubernetes,redis,mongo,rabbitmq,html,css,vue,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,cs,net,golang,py,jest,aws,azure,jenkins,docker,git,githubactions,graphql,kubernetes,postgres,redis,mongo,mysql,rabbitmq,html,css,vue,react,elasticsearch,nginx,solidity,linux)](https://skillicons.dev)
